@@ -4,28 +4,32 @@
 
 # Excel
 
-![Excel 1](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/excel%20(1).png)
-![Excel 1](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/excel%20(2).png)
-![Excel 1](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/excel%20(3).png)
+<div style="display:flex; gap:10px;">
+    <img src="images/excel%20(1).png" height="180">
+    <img src="images/excel%20(2).png" height="180">
+    <img src="images/excel%20(3).png" height="180">
+</div>
 
 # Tableau
 
-![Tableau](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/tableau.png)
+<img src="images/tableau.png" width="800">
 
 # Power BI
 
-![Power BI](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/power%20bi%20(1).jpg)
-![Power BI](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/power%20bi%20(2).jpg)
+<img src="images/power%20bi%20(1).jpg" width="800">
+<img src="images/power%20bi%20(2).jpg" width="800">
 
 # MySQL
 
-![MySQL Model](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20model%20(1).png)
-![MySQL Model](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20model%20(2).png)
-![MySQL Model](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20model%20(3).png)
+<div style="display:flex; gap:10px;">
+    <img src="images/sql%20model%20(2).png" height="320">
+    <img src="images/sql%20model%20(1).png" height="320">
+</div>
 
-![MySQL](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20(3).png)
-![MySQL](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20(4).png)
-![MySQL](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/sql%20(5).png)
+<div style="display:flex; gap:10px;">
+    <img src="images/sql%20(3).png" height="260">
+    <img src="images/sql%20(4).png" height="260">
+</div>
 
 # Azure
 
@@ -33,8 +37,12 @@ add essay
 
 # Python
 
-![Python](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/python%20(1).png)
-![Python](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/python%20(2).png)
-![Python](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/python%20(3).png)
-![Python](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/python%20(4).png)
-![Python](https://github.com/gl551b/Just-IT-Workbook/blob/main/images/python%20(5).png)
+<img src="images/python%20(4).png" width="760">
+
+<div style="display:flex; gap:10px;">
+    <img src="images/python%20(1).png" height="260">
+    <img src="images/python%20(5).png" height="260">
+    <img src="images/python%20(3).png" height="260">
+</div>
+
+
