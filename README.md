@@ -1,5 +1,14 @@
-## Just IT Workbook
+# Just IT Workbook
 
+This repository is a curated portfolio of the technical skills and practical expertise I developed through the intensive Data Analytics Bootcamp at Just IT. It demonstrates my proficiency across the entire data lifecycle, from initial wrangling to insightful visualization and cloud deployment.
+
+My hands-on project work includes:
+*   Cleansing and transforming datasets using Excel and Python's pandas library.
+*   Writing complex SQL queries, utilizing JOINs, aggregations, and window functions to extract and summarize data from relational databases.
+*   Designing dynamic, interactive dashboards in Power BI and Tableau to translate data into compelling narratives.
+*   Leveraging Microsoft Azure cloud services for scalable data storage and management, forming a foundation for enterprise-level analytics.
+
+Through these projects, I have cultivated a robust, scenario-based proficiency in the core tools of modern data analysis. This portfolio is a testament to my readiness to deliver actionable, insight-driven solutions that inform strategy and foster data-led growth.
 
 
 # Excel
